@@ -1,0 +1,16 @@
+{
+  "name": "azero-skills-kit-sdk-for-nodejs",
+  "version": "1.1.0",
+  "description": "azero utility for quickly building skills",
+  "main": "start.js",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "author": "Soundai Azero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.16.2",
+    "nodemon": "~1.8.1",
+    "ask-sdk": "^2.7.0"
+  }
+}
