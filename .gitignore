@@ -1,0 +1,11 @@
+*.md
+*.xml
+*.yaml
+*.lock
+.idea/nodejs-skills.iml
+.DS_Store
+azero/node_modules/*
+/node_modules/*
+package-lock.json
+
+logs/*
